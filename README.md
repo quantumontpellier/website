@@ -10,8 +10,6 @@ The only directory that you might want to look at is [`content`](./content/). Th
 ## Usefull links
 
 - [How to create a blog post](./docs/how_to_blog_post.md)
-- [How to edit the website locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/).
-- [Create a blog post](https://wowchemy.com/docs/content/blog-posts/).
 
 ## Demo Credits
 
