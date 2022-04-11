@@ -16,6 +16,8 @@ organizations:
   url: "https://www.lirmm.fr/"
 - name: University of Montpellier
   url: "https://www.umontpellier.fr"
+- name: Total Energies
+  url: "https://www.totalenergies.fr/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: I am a doctoral student currently involved in a PhD on quantum computing algorithms
