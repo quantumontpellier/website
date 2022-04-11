@@ -26,6 +26,8 @@ publishDate: "2022-04-10T00:00:00Z"
 
 authors:
 - adrien
+- siyuan
+- aida
 
 tags: []
 
